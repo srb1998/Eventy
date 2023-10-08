@@ -1,0 +1,11 @@
+.body {
+  padding: 0;
+  background-color: rgb(142, 206, 206);
+}
+
+.promoted {
+  text-align: center;
+  padding-top: 1rem;
+  margin: auto;
+  color:brown;
+}
